@@ -13,10 +13,12 @@ Septiembre 2020 - Actual, Ciudad de Mexicoo
 
 ## Soporte 1er Nivel
 1 año 4 meses - CITI Value In Real Time - Telcel
+### Responsabilidades
 
 ## Soporte Especializado 2do Nivel
 1 año 3 meses - Sellcom Solutions - BBVA
 
+### Responsabilidades
 Analista de sistemas, monitoreo de procesos Java, montados en SO UNIX, Linux, solución a Incidentes presentados en los sistemas. Generación de procesos Shell, con la finalidad de extraer información para la generación de estadísticas. Balanceo de carga en servidores desde balanceador F5
 
 Soporte 2do nivel a sucursales de Bancomer BBVA a nivel Nacional,
