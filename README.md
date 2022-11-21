@@ -25,7 +25,9 @@ Analista de sistemas, monitoreo de procesos Java, montados en SO UNIX, Linux, so
 
 Soporte 2do nivel a sucursales de Bancomer BBVA a nivel Nacional,
 
-Atención de Tickets Remedy, servidores fuera de línea, así como Tickets de los servicios de los servidores.  Extracción, Inserción y edición de información de manera masiva de más de 2000 servidores. Generación de reportes de la configuración de los servidores
+- Atención de Tickets Remedy, de servidores fuera de línea, así como Tickets de los servicios de los servidores.
+- Extracción, Inserción y edición de información de manera masiva de más de 2000 servidores.
+- Generación de reportes de la configuración de los servidores
 
 ### Monitoreo 
 ## Skills
