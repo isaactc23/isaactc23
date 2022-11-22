@@ -33,7 +33,7 @@ Soporte 2do nivel a sucursales de Bancomer BBVA a nivel Nacional,
 - Generación de reportes de la configuración de los servidores
 
 ### Monitoreo de sucursales Bancomer
-Monitoreo de las mas de 2000 sucursales de BBVA a nivel naciona.
+Monitoreo de las mas de 2000 sucursales de BBVA a nivel nacional.
 - 
 
 ## Skills
