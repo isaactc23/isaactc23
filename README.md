@@ -32,10 +32,21 @@ Soporte 2do nivel a sucursales de Bancomer BBVA a nivel Nacional,
 - Extracción, Inserción y edición de información de manera masiva de más de 2000 servidores.
 - Generación de reportes de la configuración de los servidores
 
-### Monitoreo de sucursales Bancomer
+## Monitoreo de sucursales Bancomer
 Monitoreo de las mas de 2000 sucursales de BBVA a nivel nacional.
-- 
+- Monitoreo de servidores, Routers, switches y servicios,
+- Generacion, atencion y seguimiento de tikets remedy, 
+- Generacion de reportes para la notificacion de incidencias
 
+## Cursos - Certificaciones
+**Curso kubernetes**
+asasa
+**Curso Operaciones Cloud en AWS**
+Bootcamp Institute   julio 2021
+**Certificacion LPCI-1: Administrador Linuxx**
+Linux Professional Institute  Noviembre 2019
+**Curso Administracion Linux**
+Conocimiento Libre  Mayo 2019
 ## Skills
 
 - JBoss
