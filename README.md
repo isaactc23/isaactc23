@@ -51,18 +51,4 @@ Monitoreo de las más de 2000 sucursales de BBVA a nivel nacional.
 
 ## Skills
 
-<div style="float: left; padding-right: 4rem">
-
-- JBoss <br>
-- Kubernetes <br>
-- Docker <br>
--  Rancher
-</div>
-
-<div style="float: right; padding-right: 30rem">
-
-- AWS<br>
-- Nginx<br>
-- Linux<br>
-
-</div>
+JBoss - Kubernetes - Docker - Rancher - AWS - Nginx - Linux
