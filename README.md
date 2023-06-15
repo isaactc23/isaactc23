@@ -4,6 +4,15 @@ isaac.tc23@gmail.com. 5578604274. Ciudad de México
 ## SysAdmin
 Administrador de sistemas con 5 años de experiencia, garantizando la disponibilidad de las aplicaciones ayudando con esto a proveer servicios de calidad y continuidad.
 
+## Lider SysOps Cloud
+
+- Seguimiento y despliegue de proyectos
+- Configurar e implementar correctamente las herramientas, procesos definidos y asegurar la disponibilidad, desempeño de la plataforma.
+- Administrar, operar y realizar despliegue de aplicaciones sobre On Premise.
+- Atención a incidencias.
+- Desarrollar scripts para automatización procesos administrativos de la plataforma.
+- Ejecutar la implementación de cambios a los aplicativos.
+- Administrar proyectos implementados en AWS.
 
 ## Lider Midleware - Grupo Salinas
 Septiembre 2020 - Actual, Ciudad de Mexicoo 
